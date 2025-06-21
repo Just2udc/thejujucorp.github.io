@@ -1,1 +1,1 @@
-# site.github.io
+# thejujucorp.github.io
